@@ -1,0 +1,31 @@
+## Regimes contábeis
+
+ Regime contábil refere-se a forma de registro das entradas e saídas de dinheiro e a apuração  do resultado de um negócio (lucro ou prejuízo). Há dois regimes possíveis:
+
+ Regime de caixa: Regime importante para a gestão financeira do negócio
+ 
+ Regime de competência: Regime exigido pelas normas contábeis e pelo Fisco
+
+
+ Exemplo 01 - Regime de caixa
+
+ Registro de entradas e saídas de dinheiro no caixa na data em que ocorreu a efetiva entrada  ou saida de dinheiro no caixa. Acompanhamento gerencial do saldo.
+ 
+  jan
+ 1 Entrada: Venda á vista 100,5
+ 2 Entrada(só no próximo mês): Venda a prazo 100,5 em 2x com 30 e 60 dias de prazo
+ 3 Saída: Compra á vista 50,00
+ 
+
+ Exemplo 02 - Regime de competência
+
+ Registra as entradas e saídas de dinheiro no caixa na data em que ocorreu o fator gerador da  entrada ou saida de dinheiro. A data em que foi gerada uma nota fiscal.
+
+  jan
+ 1 + 100,00 e 2+ 100
+ 3 - 50,00
+ 
+ 
+
+
+
